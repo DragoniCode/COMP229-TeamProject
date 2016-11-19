@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Optimization;
 using System.Web.UI;
 
-namespace COMP229_TeamProject
+namespace Comp229_TeamProject
 {
     public class BundleConfig
     {

@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace COMP229_TeamProject.Account {
+namespace Comp229_TeamProject.Account {
     
     
     public partial class Login {
@@ -73,6 +73,6 @@ namespace COMP229_TeamProject.Account {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::COMP229_TeamProject.Account.OpenAuthProviders OpenAuthLogin;
+        protected global::Comp229_TeamProject.Account.OpenAuthProviders OpenAuthLogin;
     }
 }

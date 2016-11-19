@@ -4,7 +4,7 @@ using System.Web;
 using System.Web.Routing;
 using Microsoft.AspNet.FriendlyUrls;
 
-namespace COMP229_TeamProject
+namespace Comp229_TeamProject
 {
     public static class RouteConfig
     {

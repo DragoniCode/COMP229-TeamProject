@@ -6,9 +6,9 @@ using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin;
 using Microsoft.Owin.Security;
-using COMP229_TeamProject.Models;
+using Comp229_TeamProject.Models;
 
-namespace COMP229_TeamProject
+namespace Comp229_TeamProject
 {
     public class EmailService : IIdentityMessageService
     {

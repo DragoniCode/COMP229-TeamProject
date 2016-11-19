@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Two-Factor Authentication" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="TwoFactorAuthenticationSignIn.aspx.cs" Inherits="COMP229_TeamProject.Account.TwoFactorAuthenticationSignIn" %>
+﻿<%@ Page Title="Two-Factor Authentication" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="TwoFactorAuthenticationSignIn.aspx.cs" Inherits="Comp229_TeamProject.Account.TwoFactorAuthenticationSignIn" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
         <h2><%: Title %>.</h2>

@@ -7,9 +7,9 @@ using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.DataProtection;
 using Microsoft.Owin.Security.Google;
 using Owin;
-using COMP229_TeamProject.Models;
+using Comp229_TeamProject.Models;
 
-namespace COMP229_TeamProject
+namespace Comp229_TeamProject
 {
     public partial class Startup {
 

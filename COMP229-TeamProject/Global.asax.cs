@@ -7,7 +7,7 @@ using System.Web.Routing;
 using System.Web.Security;
 using System.Web.SessionState;
 
-namespace COMP229_TeamProject
+namespace Comp229_TeamProject
 {
     public class Global : HttpApplication
     {

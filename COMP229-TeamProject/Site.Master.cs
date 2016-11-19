@@ -8,7 +8,7 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using Microsoft.AspNet.Identity;
 
-namespace COMP229_TeamProject
+namespace Comp229_TeamProject
 {
     public partial class SiteMaster : MasterPage
     {

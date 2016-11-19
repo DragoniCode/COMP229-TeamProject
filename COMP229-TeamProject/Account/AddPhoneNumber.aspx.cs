@@ -7,9 +7,9 @@ using System.Web.UI.WebControls;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using System.Threading.Tasks;
-using COMP229_TeamProject.Models;
+using Comp229_TeamProject.Models;
 
-namespace COMP229_TeamProject.Account
+namespace Comp229_TeamProject.Account
 {
     public partial class AddPhoneNumber : System.Web.UI.Page
     {

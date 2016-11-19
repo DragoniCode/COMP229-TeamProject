@@ -7,11 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Comp229_TeamProject.Account
+namespace Comp229_TeamProject
 {
 
 
-    public partial class Lockout
+    public partial class About
     {
     }
 }

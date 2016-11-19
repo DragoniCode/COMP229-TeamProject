@@ -6,7 +6,7 @@ using System.Web;
 using Microsoft.AspNet.Identity;
 using Microsoft.Owin.Security;
 
-namespace COMP229_TeamProject.Account
+namespace Comp229_TeamProject.Account
 {
     public partial class OpenAuthProviders : System.Web.UI.UserControl
     {

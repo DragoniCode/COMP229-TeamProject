@@ -4,9 +4,9 @@ using System.Web.UI;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Owin;
-using COMP229_TeamProject.Models;
+using Comp229_TeamProject.Models;
 
-namespace COMP229_TeamProject.Account
+namespace Comp229_TeamProject.Account
 {
     public partial class Login : Page
     {

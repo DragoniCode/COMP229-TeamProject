@@ -6,9 +6,9 @@ using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
-using COMP229_TeamProject.Models;
+using Comp229_TeamProject.Models;
 
-namespace COMP229_TeamProject.Models
+namespace Comp229_TeamProject.Models
 {
     // You can add User data for the user by adding more properties to your User class, please visit http://go.microsoft.com/fwlink/?LinkID=317594 to learn more.
     public class ApplicationUser : IdentityUser
@@ -42,7 +42,7 @@ namespace COMP229_TeamProject.Models
 }
 
 #region Helpers
-namespace COMP229_TeamProject
+namespace Comp229_TeamProject
 {
     public static class IdentityHelper
     {

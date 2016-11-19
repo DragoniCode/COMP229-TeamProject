@@ -1,8 +1,8 @@
 ﻿using Microsoft.Owin;
 using Owin;
 
-[assembly: OwinStartupAttribute(typeof(COMP229_TeamProject.Startup))]
-namespace COMP229_TeamProject
+[assembly: OwinStartupAttribute(typeof(Comp229_TeamProject.Startup))]
+namespace Comp229_TeamProject
 {
     public partial class Startup {
         public void Configuration(IAppBuilder app) {
